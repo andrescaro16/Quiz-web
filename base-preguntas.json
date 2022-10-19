@@ -1,0 +1,22 @@
+[
+    {
+        "categoria": "Educación sexual",
+        "pregunta": "¿Cuál de las siguientes opciones es un método 100% seguro para no quedar embarazada?",
+        "respuesta": "Ningún método es 100% seguro",
+        "incorrecta1": "Usar condón a la hora de tener relaciones",
+        "incorrecta2": "Planificar con pastillas",
+        "incorrecta3": "Tomarse una postday luego de tener relaciones con o sin protección\r",
+        "imagen": "https://i.ibb.co/SPpssvd/metodos-Anticonceptivos.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Educación sexual",
+        "pregunta": "¿A qué edad se debería hablar de la salud sexual y reproductiva con los jóvenes en el centro educativo?",
+        "respuesta": "Entre los 12 y 15 años",
+        "incorrecta1": "Antes de los 11 años",
+        "incorrecta2": "Entre los 16 y 17 años",
+        "incorrecta3": "De 18 años en adelante",
+        "imagen": "https://i.ibb.co/vz0fbKh/edad-Jovenes.jpg",
+        "objectFit": "cover"
+    }
+]
